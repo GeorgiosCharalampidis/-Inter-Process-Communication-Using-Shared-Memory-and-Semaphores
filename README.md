@@ -1,5 +1,3 @@
-Sure, here is a longer and more detailed description of the program in English:
-
 ## Inter-Process Communication Using Shared Memory and Semaphores (C)
 
 **Introduction and Purpose**
